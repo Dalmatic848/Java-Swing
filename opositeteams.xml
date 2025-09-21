@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opositeteams>
+
+    <opositeteam>
+        <idopositeTeam type="INT">1</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Krasnodar</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">2</idopositeTeam>
+        <opositeTeamName type="VARCHAR">The Locomotive</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">3</idopositeTeam>
+        <opositeTeamName type="VARCHAR">PFC CSKA</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">4</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Dynamo</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">5</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Spartak-Moscow</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">6</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Ruby</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">7</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Rostov</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">8</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Wings of the Soviets</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">9</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Akron</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">10</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Pari NN</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">11</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Dynamo Mkh</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">12</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Khimki</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">13</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Torch</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">14</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Orenburg</opositeTeamName>
+    </opositeteam>
+
+    <opositeteam>
+        <idopositeTeam type="INT">15</idopositeTeam>
+        <opositeTeamName type="VARCHAR">Akhmat</opositeTeamName>
+    </opositeteam>
+
+</opositeteams>
