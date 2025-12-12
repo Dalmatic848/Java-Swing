@@ -1828,3 +1828,9 @@
 20:14:02,618  INFO main TeamInfo:face:225 - Adding filters
 20:14:02,736  INFO main TeamInfo:face:959 - GUI has been initialized successfully
 
+21:43:13,143  INFO main TeamInfo:face:116 - The beginning of GUI initialization
+21:43:13,153  INFO main TeamInfo:face:126 - Creating GUI components
+21:43:13,198  INFO main TeamInfo:face:175 - Adding components to the toolbar
+21:43:13,283  INFO main TeamInfo:face:225 - Adding filters
+21:43:13,446  INFO main TeamInfo:face:959 - GUI has been initialized successfully
+
